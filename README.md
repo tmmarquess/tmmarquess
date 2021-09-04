@@ -4,7 +4,6 @@
 - cursando Sistemas de Informação pela Universidade do Estado do Amazonas e também terminando o curso técnico de nível médio em informática pelo Instituto Federal do Amazonas 😵
 - estudando programação Web e Python 👨‍💻
 - Possuo grande interesse em Design de games 🎮
-- 
 - Pronomes: ele/dele 🙃
 - Email: thiago.uchoa18@gmail.com 📫
 
