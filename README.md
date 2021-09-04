@@ -12,8 +12,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmmarquess&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Redes sociais 💬
-<a href="https://instagram.com/tmmarquess"><img src="instagram.png"></img></a> 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=thiago.uchoa18%40gmail.com&authuser=0"><img src="gmail.png"></img></a>
+<a href="https://instagram.com/tmmarquess" target="blank_"><img src="instagram.png"></img></a> 
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=thiago.uchoa18%40gmail.com&authuser=0" target="blank_"><img src="gmail.png"></img></a>
 <!--
 **tmmarquess/tmmarquess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
