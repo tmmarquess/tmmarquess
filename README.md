@@ -16,7 +16,7 @@
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=thiago.uchoa18%40gmail.com&authuser=0" target="_blank"><img src="gmail.png"></img></a>
 <!--
 **tmmarquess/tmmarquess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+:)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
