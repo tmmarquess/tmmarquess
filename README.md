@@ -6,9 +6,9 @@
 - Pronomes: ele/dele 🙃
 
 ### Estatísticas 🤓
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmmarquess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)]
+(https://github-readme-stats.vercel.app/api?username=tmmarquess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmmarquess&layout=compact&langs_count=7&theme=tokyonight)]
+(https://github-readme-stats.vercel.app/api/top-langs/?username=tmmarquess&layout=compact&langs_count=7&theme=tokyonight)
 ### Redes sociais 💬
 <a href="https://instagram.com/tmmarquess" target="_blank"><img src="instagram.png"></img></a> 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=thiago.uchoa18%40gmail.com&authuser=0" target="_blank"><img src="gmail.png"></img></a>
