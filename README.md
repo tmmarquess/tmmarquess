@@ -1,16 +1,17 @@
-## Bem vindo ao meu perfil, meu nome é Thiago Marques :)
+## Welcome to my profile, i'm Thiago 😄
 
-###  Um pouco de mim 😋
-- cursando Sistemas de Informação pela Universidade do Estado do Amazonas e também terminando o curso técnico de nível médio em informática pelo Instituto Federal do Amazonas 😵
-- estudando programação Web e Python 👨‍💻
-- Possuo grande interesse em Design de games 🎮
-- Pronomes: ele/dele 🙃
+###  About me 🤪
+- Currently Studying Information Systems through the Amazon State University 📚
+- currently learning Android and Python 👨‍💻
+- Fluent in english 🥴
+- Huge interest in game design 🎮
+- Pronouns: he/him 🙃
 
-### Estatísticas 🤓
+### Statistics 🤓
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmmarquess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmmarquess&layout=compact&langs_count=7&theme=tokyonight)
-### Redes sociais 💬
+### Social Media 💬
 <a href="https://instagram.com/tmmarquess" target="_blank"><img src="instagram.png"></img></a> 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=thiago.uchoa18%40gmail.com&authuser=0" target="_blank"><img src="gmail.png"></img></a>
 <!--
