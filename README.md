@@ -1,6 +1,7 @@
 ## Welcome to my profile, i'm Thiago 😄
 
 ###  About me 🤪
+- Computer technician by the federal institute of Amazonas 👾
 - Currently Studying Information Systems through the Amazon State University 📚
 - currently learning Android and Python 👨‍💻
 - Fluent in english 🥴
