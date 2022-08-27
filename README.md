@@ -3,9 +3,9 @@
 ###  About me 🤪
 - Computer technician by the federal institute of Amazonas 👾
 - Currently Studying Information Systems through the Amazon State University 📚
-- currently learning Python 👨‍💻
+- currently using Python, C and Java 👨‍💻
 - Fluent in english 🥴
-- Huge interest in game programming 🎮
+- Huge interest in games 🎮
 - Pronouns: he/him 🙃
 
 ### Statistics 🤓
