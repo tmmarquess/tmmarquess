@@ -1,8 +1,8 @@
 ## Welcome to my profile, i'm Thiago 😄
 
 ###  About me 🤪
-- Computer technician by the federal institute of Amazonas 🎓
-- Currently Studying Information Systems through the Amazon State University 📚
+- Computer technician by the federal institute of Amazonas 📚
+- Currently Studying Information Systems through the Amazon State University 🎓
 - Test Developer intern at INDT 👾
 - currently using Python, C and Java 👨‍💻
 - Fluent in english 🥴
