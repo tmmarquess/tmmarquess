@@ -2,9 +2,9 @@
 
 ###  About me 🤪
 - Computer technician by the federal institute of Amazonas 📚
-- Currently Studying Information Systems through the Amazon State University 🎓
-- Test Developer trainee at INDT 👾
-- currently using Python, C and Java 👨‍💻
+- Bachelor's Degree in Information Systems by the Amazon State University 🎓
+- QA Automation and Security tester at INDT 👾
+- currently using Python, C, Java and Node 👨‍💻
 - Fluent in english 🥴
 - Huge interest in games 🎮
 - Pronouns: he/him 🙃
